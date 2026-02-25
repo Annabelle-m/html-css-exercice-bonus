@@ -1,0 +1,186 @@
+/* ---- Police Batman MENU et TITRE ---- */
+@font-face{
+    font-family: "batmanmaj";
+    src: url('../font/batmfa__.ttf');
+}
+
+/* ---- Police Batman h2 et h3 ----*/
+@font-face{
+    font-family: "batman";
+    src: url('../font/BADABB__.TTF')
+}
+
+/* RESET */
+body {
+    background: #3D6585;
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    color: white;
+    font-family: arial;
+    font-size: 1em;
+}
+
+.clear {
+    clear: both;
+}
+
+
+/* ---- LES TITRES ---- */
+h1{
+    font-family: "batmanmaj";
+    text-align: center;
+    color: white;
+    font-size: 3em;
+}
+
+section:nth-of-type(2) h1,
+section:nth-of-type(3) h1 {
+    background-color: #E6E484;
+    color: black;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+    line-height: 100px; 
+}
+
+h2{
+    font-family: "batman";
+    color: yellow;
+    font-size: 2.5em;
+}
+
+h3{
+    font-family: "batman";
+    color: yellow;
+    font-size: 2.3em;
+    text-align: center;
+}
+
+
+/* ---- MENU ---- */
+.fond{
+    height: 800px;
+    margin: 0;
+    padding: 0;
+    background-image: url("../img/fond.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;         
+    background-position: center;  
+}
+
+.menu{
+    font-family: "batmanmaj";
+    font-size: 2em;
+    color: black;
+    width: 100%;
+    height: 100px;
+    background-color: #E6E484; 
+    list-style-type: none;  
+}
+
+.menu a{
+    outline: none;
+    text-decoration: none;
+}
+
+.menu a:link ,.menu a:visited {
+    color: black;
+}
+
+.menu img{
+    width: 150px;
+}
+
+
+/* === PARTIE FILMS === */
+.films {
+    text-align: center;
+    margin: 0 10% 0 10%;
+}
+
+.films h2:nth-of-type(2) {
+    text-align: left;
+}
+
+.films h2:nth-of-type(3) {
+    text-align: right;
+}
+
+.films img {
+    width: 60%;
+}
+
+.films p img {
+    display: inline;
+    width: 35%;
+    float: left;
+}
+
+.films p:last-child img{
+    float: right;
+}
+
+
+/* === PARTIE SERIES === */
+
+.serie {
+    width: 60%;
+    margin: 100px auto;
+    display: block;
+    text-align: center;
+}
+
+.serie img {
+    width: 85%;
+    object-fit: cover;
+}
+
+.serie h3, .serie p {
+    text-align: left;
+}
+
+.serie tr:nth-of-type(1) img {
+    float: left;
+}
+
+.serie tr:nth-of-type(2) img {
+    float: right;
+}
+
+
+/* === PARTIE AUTRES === */
+.autres img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.autres div {
+    width: 70%;
+    margin: 50px auto;
+}
+
+
+/* === PIED DE PAGE === */
+.pied-page {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+
+.pied-page img{
+    width: 100px;
+}
+
+.pied-page td:last-of-type{
+    text-align: right;
+    
+}
+
+
+
+
+
+
