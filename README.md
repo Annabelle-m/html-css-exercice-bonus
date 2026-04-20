@@ -1,26 +1,26 @@
-## Objectif
+## Objective
 
-Ce projet consiste à reproduire une maquette web en HTML et CSS, en respectant un design précis et en intégrant un comportement responsive.
-
----
-
-## Contexte
-
-Ce projet a été réalisé dans le cadre de ma formation afin de renforcer mes compétences en intégration web et en responsive design.
-L’objectif était de transformer une maquette en site web fonctionnel, tout en respectant les contraintes d’affichage sur différents écrans.
+This project consists of reproducing a web mockup in HTML and CSS, respecting a precise design and integrating responsive behavior.
 
 ---
 
-## Fonctionnalités
+## Context
 
-* Intégration d’une maquette en HTML / CSS
-* Mise en page structurée (header, sections, footer)
-* Responsive design avec media queries
-* Adaptation mobile / tablette / desktop
+This project was carried out as part of my training in order to strengthen my skills in web integration and responsive design.  
+The objective was to transform a mockup into a functional website while respecting display constraints on different screen sizes.
 
 ---
 
-## Technologies utilisées
+## Features
+
+* Integration of a mockup in HTML / CSS
+* Structured layout (header, sections, footer)
+* Responsive design with media queries
+* Adaptation for mobile / tablet / desktop
+
+---
+
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -28,33 +28,33 @@ L’objectif était de transformer une maquette en site web fonctionnel, tout en
 
 ---
 
-## Compétences développées
+## Skills Developed
 
-* Intégration web à partir d’une maquette
+* Web integration from a mockup
 * Responsive design
-* Utilisation des media queries
-* Structuration d’une page web
+* Use of media queries
+* Structuring a web page
 
 ---
 
-## Ce que j’ai appris
+## What I Learned
 
-* Adapter un design à plusieurs tailles d’écran
-* Gérer les priorités d’affichage mobile-first
-* Structurer un projet front-end proprement
-
----
-
-## Améliorations possibles
-
-* Ajouter des animations CSS
-* Améliorer l’accessibilité
-* Optimiser les performances
-* Ajouter des interactions JavaScript
+* Adapting a design to multiple screen sizes
+* Managing mobile-first display priorities
+* Structuring a front-end project properly
 
 ---
 
-## Auteur
+## Possible Improvements
 
-Annabelle
-GitHub : https://github.com/Annabelle-m
+* Add CSS animations
+* Improve accessibility
+* Optimize performance
+* Add JavaScript interactions
+
+---
+
+## Author
+
+Annabelle  
+GitHub: https://github.com/Annabelle-m
